@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="busywidget.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.2823896"
+     inkscape:cx="104.63307"
+     inkscape:cy="28.342018"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2842"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient835">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="0"
+         id="stop831" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="1"
+         id="stop833" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 50 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="100 : 50 : 1"
+       inkscape:persp3d-origin="50 : 33.333333 : 1"
+       id="perspective22" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient835"
+       id="linearGradient837"
+       x1="-71.119474"
+       y1="46.302956"
+       x2="-37.992922"
+       y2="46.302956"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="hint-rotation-angle"
+       width="15"
+       height="8.5051775"
+       x="13.061523"
+       y="120" />
+    <g
+       id="busywidget">
+      <rect
+         style="fill:#49a64f;fill-opacity:0;stroke:none"
+         id="rect3600"
+         width="130"
+         height="130"
+         x="-15"
+         y="-15" />
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         id="g3608"
+         transform="matrix(1.0315683,0,0,1.0089619,123.68761,18.326753)">
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:3.05620646;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           d="m -71.432611,-18.163938 0,11.2029454 c 22.367168,0 39.50753,17.8857646 39.50753,38.4100976 l 8.962356,0 c 0,-28.0769291 -22.235789,-49.613043 -48.469886,-49.613043 z"
+           id="path2840" />
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:3.05620646;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           d="m -119.9025,31.449105 c 0,28.076932 22.235792,49.498726 48.469889,49.498726 l 0,-11.088629 c -22.367167,0 -39.507529,-17.885764 -39.507529,-38.410097 l -8.96236,0 z"
+           id="path3616" />
+      </g>
+    </g>
+    <g
+       id="paused">
+      <rect
+         y="-15"
+         x="130"
+         height="130"
+         width="130"
+         id="rect3616"
+         style="fill:#49a64f;fill-opacity:0;stroke:none" />
+      <g
+         id="g3624"
+         transform="translate(460,-119)">
+        <ellipse
+           transform="matrix(2.9862078,0,0,3.7327597,-100.08404,-3.8378052)"
+           id="path3807"
+           style="fill:url(#linearGradient837);stroke:#ff00ff;stroke-width:3.05620646;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+           sodipodi:type="arc"
+           sodipodi:ry="12.028138"
+           sodipodi:rx="15.035172"
+           sodipodi:cy="46.302956"
+           sodipodi:cx="-54.556198" />
+      </g>
+    </g>
+  </g>
+</svg>
