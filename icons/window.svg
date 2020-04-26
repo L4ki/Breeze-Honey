@@ -45,39 +45,6 @@
     <style
        id="current-color-scheme"
        type="text/css">
-      .ColorScheme-Text {
-        color:#7B7C7E;
-      }
-      .ColorScheme-Background{
-        color:#EFF0F1;
-      }
-      .ColorScheme-Highlight{
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ViewBackground{
-        color:#FCFCFC;
-      }
-      .ColorScheme-ViewHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewFocus{
-        color:#1E92FF;
-      }
-      .ColorScheme-ButtonText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#EFF0F1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#1E92FF;
-      }
 </style>
     <linearGradient
        inkscape:collect="always"
@@ -107,7 +74,8 @@
        y1="40.973682"
        x2="-20.429825"
        y2="40.973682"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.91227996,-0.63157833)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient836"
@@ -116,7 +84,8 @@
        y1="40.973682"
        x2="-20.429825"
        y2="40.973682"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.91227996,-0.63157833)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient868"
@@ -152,9 +121,9 @@
      inkscape:window-height="1028"
      id="namedview32"
      showgrid="false"
-     inkscape:zoom="15.954095"
-     inkscape:cx="-19.369311"
-     inkscape:cy="-2.6553611"
+     inkscape:zoom="5.6406244"
+     inkscape:cx="41.437727"
+     inkscape:cy="0.10729313"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -165,7 +134,8 @@
      inkscape:snap-bbox="true"
      inkscape:object-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid3046"
@@ -229,7 +199,7 @@
   </g>
   <g
      id="window-pin"
-     transform="translate(-1.2507181,0.5270003)">
+     transform="matrix(0.96839672,0,0,1,-1.2823214,0.5270003)">
     <g
        style="fill:none;stroke:none"
        inkscape:label=""
@@ -256,7 +226,7 @@
     </g>
   </g>
   <g
-     transform="translate(12.54928,0.12679852)"
+     transform="matrix(0.96839672,0,0,1,12.081551,0.12679852)"
      id="window-unpin">
     <g
        style="fill:none;stroke:none"
@@ -277,8 +247,8 @@
       <ellipse
          style="opacity:1;fill:url(#linearGradient862);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient854);stroke-width:1.31921542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path4145-9-6"
-         cx="-27.096491"
-         cy="40.973682"
+         cx="-26.184212"
+         cy="40.342106"
          rx="6.0070591"
          ry="5.8667083" />
     </g>
